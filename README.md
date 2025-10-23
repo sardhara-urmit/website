@@ -1,3 +1,3 @@
 # website
 this is my first repository
-other-urmit
+author-urmit
